@@ -7,6 +7,7 @@ This project aims to add more capabilities by creating more functions that exten
 ![AWS_Configuration](./img/1-aws-configure.png)
 
 - Confirmation of AWS Credentials
+
 ![Credentials_Confirmation](./img/2.-confirm-aws-credentials.png)
 
 - `VIM` command to create the `aws_cloud_manager` script
